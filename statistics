@@ -1,0 +1,7 @@
+// A Round Graph
+digraph {
+	0 [label="Node name: 2.366.1
+Node IP: 192.168.137.248
+Loss 0%
+Ping 13ms"]
+}

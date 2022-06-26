@@ -1,0 +1,16 @@
+<RCC>
+  <qresource>
+    <file>Icons/about.png</file>
+    <file>Icons/Share.png</file>
+    <file>Icons/Config.png</file>
+    <file>Icons/statistic.png</file>
+    <file>Icons/network.png</file>
+    <file>Icons/Block.png</file>
+    <file>Icons/chat.png</file>
+    <file>Icons/information.png</file>
+    <file>Icons/close.png</file>
+    <file>Icons/min.png</file>
+    <file>Icons/people.png</file>
+    <file>Icons/logo.png</file>
+  </qresource>
+</RCC>
